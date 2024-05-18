@@ -1,0 +1,22 @@
+﻿.custom-table {
+    /* Set the opacity for the entire table */
+    opacity: 0.8; /* Example opacity value */
+    /* Add more custom styles as needed */
+}
+.noUnderline {
+    text-decoration: none;
+    text-align:justify
+}
+.right-align{
+    text-align: end;
+    align-content:end;
+}
+.left-align{
+    text-align:start;
+}
+.center-align{
+    text-align:center;
+}
+.line {
+    border-top: 1px solid black; /* Change the color and thickness as needed */
+}
